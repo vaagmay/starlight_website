@@ -10,8 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/node": "^9.0.2",
     "@astrojs/starlight": "^0.31.1",
+    "@astrojs/vercel": "^8.0.4",
     "astro": "^5.1.5",
+    "firebase-tools": "^13.30.0",
     "sharp": "^0.32.5"
   }
 }
